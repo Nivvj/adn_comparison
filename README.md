@@ -23,7 +23,8 @@ Ce projet est une application Python pour l'analyse des séquences d'ADN. L'appl
 
 1. Clonez le dépôt :
 
-    git clone https://github.com/votre_utilisateur/adn_comparison.git
+    git clone https://github.com/Nivvj/adn_comparison.git
+    
     cd adn_comparison
 
 2. Installez les dépendances requises :
