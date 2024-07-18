@@ -1,4 +1,4 @@
-# Analyseur de DNA
+# Analyseur d'ADN
 
 Ce projet est une application Python pour l'analyse des séquences d'ADN. L'application utilise les bibliothèques Tkinter et CustomTkinter pour l'interface graphique, et propose plusieurs fonctionnalités pour manipuler et analyser les séquences d'ADN.
 
